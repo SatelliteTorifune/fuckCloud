@@ -1,0 +1,8 @@
+{
+	"name": "Clouuuuuuuud",
+	"references": [
+		"UnityEngine.UI",
+		"Unity.TextMeshPro",
+		"Unity.Mathematics"
+	]
+}

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 2
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1366777262, guid: c37b925f2b4978342b2e0b83a8fa404a, type: 3}
+  m_Name: ModData
+  m_EditorClassIdentifier: 
+  _assemblies:
+  - Clouuuuuuuud.dll
+  _author: "00AAA\u6E21\u91CC\u59AE\u5A1C\u4E92\u8054\u7F51\u5927\u7CAA\u72D7\u5C4E\u6279\u53D1"
+  _description: "<color=red>\u6211\u64CD\u4F60\u5988Jundroo\u628A\u8001\u5A18\u5F53\u65E5\u672C\u4EBA\u6574"
+  _loadPriority: 1000
+  _name: Clouuuuuuuud
+  _otherAssets: []
+  _prefabs:
+  - {fileID: 4291840902933349699, guid: d33c8c5640306f74ba762eeb12155172, type: 3}
+  _steamDescription: 
+  _steamLanguage: English
+  _steamPreviewPath: 
+  _steamTags: 
+  _steamTitle: 
+  _steamVisibility: 0
+  _versionMajor: 1
+  _versionMinor: 0
+  _partCategories: []
+  _parts: []
+  _partStyleExtensions: []
+  _partTextureStyles: []
+  _persistentObjects: []
+  _uiResourceDatabases: []
